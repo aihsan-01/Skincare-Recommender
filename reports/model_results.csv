@@ -1,0 +1,4 @@
+method,recall_at_10,ndcg_at_10
+Most popular overall,0.0437,0.0224
+Most popular for skin type,0.0503,0.0252
+ALS,0.279,0.1872

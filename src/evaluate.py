@@ -1,6 +1,8 @@
 from pyspark.sql import SparkSession, Window
 from pyspark.sql import functions as F
 from pyspark.ml.recommendation import ALSModel
+import csv
+from pathlib import Path
 
 DATA = "data/processed"
 K = 10
@@ -92,4 +94,11 @@ results = [
 print(f"{'method':<28} {'recall@10':>10} {'ndcg@10':>10}")
 for name, recall, ndcg in results:
     print(f"{name:<28} {recall:>10.4f} {ndcg:>10.4f}")
+
+
+Path("reports").mkdir(exist_ok=True)
+with open("reports/model_results.csv", "w", newline="") as f:
+    writer = csv.writer(f)
+    writer.writerow(["method", "recall_at_10", "ndcg_at_10"])
+    writer.writerows(results)
 spark.stop()

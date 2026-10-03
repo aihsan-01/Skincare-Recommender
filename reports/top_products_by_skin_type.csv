@@ -1,0 +1,81 @@
+skin_type,popularity_rank,brand_name,product_name,secondary_category,price_usd,n_reviews,avg_rating
+combination,1,LANEIGE,Lip Sleeping Mask Intense Hydration with Vitamin C,Lip Balms & Treatments,24.0,8103,4.379
+combination,2,fresh,Soy Hydrating Gentle Face Cleanser,Cleansers,39.0,3893,4.359
+combination,3,Dr. Dennis Gross Skincare,Alpha Beta Extra Strength Daily Peel Pads,Treatments,92.0,3768,4.559
+combination,4,belif,The True Cream Aqua Bomb,Moisturizers,38.0,3654,4.504
+combination,5,Drunk Elephant,Protini Polypeptide Firming Refillable Moisturizer,Moisturizers,68.0,3355,3.985
+combination,6,Farmacy,Green Clean Makeup Meltaway Cleansing Balm Limited Edition Jumbo,Cleansers,60.0,3325,4.512
+combination,7,Farmacy,Green Clean Makeup Removing Cleansing Balm,Cleansers,36.0,3325,4.512
+combination,8,The Ordinary,Niacinamide 10% + Zinc 1% Oil Control Serum,Treatments,6.0,3291,4.237
+combination,9,Youth To The People,Superfood Antioxidant Cleanser,Cleansers,39.0,3123,4.232
+combination,10,Youth To The People,Mini Superfood Antioxidant Cleanser,Mini Size,14.0,3119,4.233
+combination,11,First Aid Beauty,Ultra Repair Cream Intense Hydration,Moisturizers,38.0,2834,4.51
+combination,12,Josie Maran,100 percent Pure Argan Oil,Moisturizers,49.0,2812,4.474
+combination,13,Dr. Jart+,Cicapair Tiger Grass Color Correcting Treatment SPF 30,Moisturizers,52.0,2736,3.98
+combination,14,Sunday Riley,Good Genes All-In-One AHA Lactic Acid Treatment,Treatments,122.0,2690,4.338
+combination,15,Dermalogica,Mini Daily Microfoliant Exfoliator,Mini Size,18.0,2604,4.703
+combination,16,Dermalogica,Daily Microfoliant Exfoliator,Cleansers,65.0,2604,4.703
+combination,17,Dr. Jart+,Mini Cicapair Tiger Grass Color Correcting Treatment SPF 30,Mini Size,21.0,2594,4.009
+combination,18,Peace Out,Salicylic Acid Acne Healing Dots,Treatments,19.0,2569,4.187
+combination,19,Summer Fridays,Jet Lag Mask,Masks,49.0,2346,4.05
+combination,20,Summer Fridays,Mini Jet Lag Mask,Masks,26.0,2346,4.05
+dry,1,LANEIGE,Lip Sleeping Mask Intense Hydration with Vitamin C,Lip Balms & Treatments,24.0,3074,4.299
+dry,2,First Aid Beauty,Ultra Repair Cream Intense Hydration,Moisturizers,38.0,1941,4.473
+dry,3,fresh,Soy Hydrating Gentle Face Cleanser,Cleansers,39.0,1293,4.356
+dry,4,Farmacy,Green Clean Makeup Removing Cleansing Balm,Cleansers,36.0,1242,4.444
+dry,5,Farmacy,Green Clean Makeup Meltaway Cleansing Balm Limited Edition Jumbo,Cleansers,60.0,1242,4.444
+dry,6,Drunk Elephant,Protini Polypeptide Firming Refillable Moisturizer,Moisturizers,68.0,1169,3.952
+dry,7,belif,The True Cream Aqua Bomb,Moisturizers,38.0,1160,4.427
+dry,8,Dr. Jart+,Cicapair Tiger Grass Color Correcting Treatment SPF 30,Moisturizers,52.0,1153,4.005
+dry,9,belif,The True Cream Moisturizing Bomb,Moisturizers,38.0,1124,4.612
+dry,10,Dr. Jart+,Mini Cicapair Tiger Grass Color Correcting Treatment SPF 30,Mini Size,21.0,1095,4.033
+dry,11,Josie Maran,100 percent Pure Argan Oil,Moisturizers,49.0,1086,4.458
+dry,12,Tatcha,The Dewy Skin Cream Plumping & Hydrating Moisturizer,Moisturizers,70.0,1083,4.28
+dry,13,Youth To The People,Superfood Antioxidant Cleanser,Cleansers,39.0,1022,4.154
+dry,14,Youth To The People,Mini Superfood Antioxidant Cleanser,Mini Size,14.0,1021,4.156
+dry,15,The Ordinary,Hyaluronic Acid 2% + B5 Hydrating Serum,Treatments,15.7,979,4.156
+dry,16,Dr. Dennis Gross Skincare,Alpha Beta Extra Strength Daily Peel Pads,Treatments,92.0,976,4.569
+dry,17,Summer Fridays,Mini Jet Lag Mask,Masks,26.0,960,3.996
+dry,18,Summer Fridays,Jet Lag Mask,Masks,49.0,960,3.996
+dry,19,Sunday Riley,Good Genes All-In-One AHA Lactic Acid Treatment,Treatments,122.0,910,4.389
+dry,20,First Aid Beauty,Pure Skin Face Cleanser,Cleansers,24.0,878,4.366
+normal,1,LANEIGE,Lip Sleeping Mask Intense Hydration with Vitamin C,Lip Balms & Treatments,24.0,2246,4.309
+normal,2,fresh,Soy Hydrating Gentle Face Cleanser,Cleansers,39.0,995,4.377
+normal,3,Dr. Dennis Gross Skincare,Alpha Beta Extra Strength Daily Peel Pads,Treatments,92.0,865,4.542
+normal,4,belif,The True Cream Aqua Bomb,Moisturizers,38.0,851,4.522
+normal,5,Drunk Elephant,Protini Polypeptide Firming Refillable Moisturizer,Moisturizers,68.0,796,3.907
+normal,6,Youth To The People,Superfood Antioxidant Cleanser,Cleansers,39.0,724,4.211
+normal,7,Youth To The People,Mini Superfood Antioxidant Cleanser,Mini Size,14.0,723,4.21
+normal,8,Farmacy,Green Clean Makeup Meltaway Cleansing Balm Limited Edition Jumbo,Cleansers,60.0,713,4.475
+normal,9,Farmacy,Green Clean Makeup Removing Cleansing Balm,Cleansers,36.0,713,4.475
+normal,10,Josie Maran,100 percent Pure Argan Oil,Moisturizers,49.0,687,4.543
+normal,11,Rosebud Perfume Co.,Rosebud Salve,Lip Balms & Treatments,7.0,686,4.662
+normal,12,Sunday Riley,Good Genes All-In-One AHA Lactic Acid Treatment,Treatments,122.0,657,4.288
+normal,13,First Aid Beauty,Ultra Repair Cream Intense Hydration,Moisturizers,38.0,635,4.535
+normal,14,Summer Fridays,Mini Jet Lag Mask,Masks,26.0,628,3.939
+normal,15,Summer Fridays,Jet Lag Mask,Masks,49.0,628,3.939
+normal,16,Isle of Paradise,Self Tanning Bronzing Face Drops,Self Tanners,32.0,564,3.812
+normal,17,Dr. Jart+,Cicapair Tiger Grass Color Correcting Treatment SPF 30,Moisturizers,52.0,558,4.023
+normal,18,Dermalogica,Daily Microfoliant Exfoliator,Cleansers,65.0,556,4.746
+normal,19,Dermalogica,Mini Daily Microfoliant Exfoliator,Mini Size,18.0,556,4.746
+normal,20,Charlotte Tilbury,Magic Cream Moisturizer with Hyaluronic Acid,Moisturizers,100.0,550,4.504
+oily,1,LANEIGE,Lip Sleeping Mask Intense Hydration with Vitamin C,Lip Balms & Treatments,24.0,1934,4.352
+oily,2,The Ordinary,Niacinamide 10% + Zinc 1% Oil Control Serum,Treatments,6.0,1293,4.282
+oily,3,belif,The True Cream Aqua Bomb,Moisturizers,38.0,939,4.458
+oily,4,CLINIQUE,Dramatically Different Moisturizing Gel,Moisturizers,32.5,871,4.502
+oily,5,Dr. Dennis Gross Skincare,Alpha Beta Extra Strength Daily Peel Pads,Treatments,92.0,843,4.517
+oily,6,Youth To The People,Superfood Antioxidant Cleanser,Cleansers,39.0,796,4.173
+oily,7,Youth To The People,Mini Superfood Antioxidant Cleanser,Mini Size,14.0,795,4.175
+oily,8,fresh,Soy Hydrating Gentle Face Cleanser,Cleansers,39.0,786,4.254
+oily,9,Tatcha,Mini The Water Cream,Mini Size,22.0,775,4.004
+oily,10,Tatcha,The Water Cream Oil-Free Pore Minimizing Moisturizer,Moisturizers,70.0,775,4.004
+oily,11,Farmacy,Green Clean Makeup Meltaway Cleansing Balm Limited Edition Jumbo,Cleansers,60.0,737,4.533
+oily,12,Farmacy,Green Clean Makeup Removing Cleansing Balm,Cleansers,36.0,737,4.533
+oily,13,Peace Out,Salicylic Acid Acne Healing Dots,Treatments,19.0,720,4.149
+oily,14,Drunk Elephant,Protini Polypeptide Firming Refillable Moisturizer,Moisturizers,68.0,675,3.981
+oily,15,Sunday Riley,Good Genes All-In-One AHA Lactic Acid Treatment,Treatments,122.0,595,4.319
+oily,16,Dr. Jart+,Cicapair Tiger Grass Color Correcting Treatment SPF 30,Moisturizers,52.0,582,3.876
+oily,17,Murad,Acne Control Clarifying Cleanser,Cleansers,36.0,565,4.265
+oily,18,Dermalogica,Mini Daily Microfoliant Exfoliator,Mini Size,18.0,552,4.674
+oily,19,Dermalogica,Daily Microfoliant Exfoliator,Cleansers,65.0,552,4.674
+oily,20,Dr. Jart+,Mini Cicapair Tiger Grass Color Correcting Treatment SPF 30,Mini Size,21.0,545,3.875
